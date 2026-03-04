@@ -2,7 +2,6 @@ use std::collections::HashMap;
 
 use burn::{
     backend::Wgpu,
-    prelude::*,
     tensor::{Tensor, TensorData},
 };
 
